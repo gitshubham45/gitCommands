@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("Topic branch update")
 	a := 0
 	b := 1
 	c := a + b

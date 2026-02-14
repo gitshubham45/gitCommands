@@ -7,5 +7,8 @@ func main() {
 	b := 1
 	c := a + b
 
+	d := c + b
 	fmt.Println(c)
+
+	fmt.Println(d)
 }
